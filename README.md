@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
+![banner-uipath](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
 
 # S01P01 Studio First Run
 
@@ -15,11 +15,9 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 4. Use Studio to create a new project, add an activity to the workflow, and publish to Orchestrator.
 5. Use UiPath Assistant to run the newly published process.
 
-### Details
-
 Note: The sample files are included in Data\Sample Data\UiPath-AE-S01P01-StudioFirstRun.zip and this project is in the VB language.
 
-### Sample Output
+### Details
 
 **Course:** UiPath - Automation Explorer
 
