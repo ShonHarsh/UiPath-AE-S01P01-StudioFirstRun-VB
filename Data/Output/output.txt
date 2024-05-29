@@ -1,0 +1,5 @@
+05/29/2024 10:36:36 => [Debug] Debug started for file: Main
+05/29/2024 10:36:36 => [Info] UiPath-AE-S01P01-StudioFirstRun-VB execution started
+05/29/2024 10:36:36 => [Debug] UiPath-AE-S01P01-StudioFirstRun-VB.Main.Begin;
+05/29/2024 10:36:38 => [Debug] UiPath-AE-S01P01-StudioFirstRun-VB.Main.End;
+05/29/2024 10:36:38 => [Info] UiPath-AE-S01P01-StudioFirstRun-VB execution ended in: 00:00:02
